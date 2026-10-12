@@ -13,7 +13,7 @@
   <a href="https://github.com/DevanshiCodesAI/Risk_Classifier/blob/main/Risk_Alert_Classifier.ipynb"><img src="assets/button-notebook.svg" alt="Open the project notebook" height="42"></a>
   <a href="https://github.com/DevanshiCodesAI/Risk_Classifier/blob/main/Risk_Alert_Classifier_Dataset.csv"><img src="assets/button-dataset.svg" alt="Explore the customer dataset" height="42"></a>
   
-  <a href="https://drive.google.com/file/d/13o0Avo_lw_HSmMQB1DDTClFhdK1st6F2/view?usp=sharing"><img src="assets/button-video-coming-soon.svg" alt="Watch explanation video — link coming soon" height="42"></a>
+  <a href="https://drive.google.com/file/d/13o0Avo_lw_HSmMQB1DDTClFhdK1st6F2/view?usp=sharing"><img src="assets/button-video-Explaination.svg" alt="Watch explanation video" height="42"></a>
 
   <br><br>
   <a href="#overview"><img src="assets/button-overview.svg" alt="Project overview" height="34"></a>
