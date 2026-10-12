@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="174" viewBox="0 0 1040 174" role="img">
+<title>4,043 low-risk customers, 87.89 percent; 557 high-risk customers, 12.11 percent</title>
+<rect x="1" y="1" width="1038" height="172" rx="20" fill="#F7FAFC" stroke="#D9E4EA"/>
+<text x="30" y="35" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.2" fill="#5A7486">ONE DATASET. TWO VERY DIFFERENT GROUP SIZES.</text>
+<defs><clipPath id="bar"><rect x="30" y="53" width="980" height="40" rx="11"/></clipPath></defs>
+<g clip-path="url(#bar)"><rect x="30" y="53" width="980" height="40" fill="#FAAB92"/><rect x="30" y="53" width="861.322" height="40" fill="#61D0DA"/></g>
+<text x="48" y="79" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="700" fill="#083D4C">87.89% low risk</text>
+<text x="950" y="79" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="700" fill="#633224">12.11%</text>
+<circle cx="38" cy="124" r="5" fill="#61D0DA"/><text x="54" y="129" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#243D50">4,043 low-risk customers</text>
+<circle cx="684" cy="124" r="5" fill="#FAAB92"/><text x="700" y="129" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#243D50">557 high-risk customers</text>
+<text x="30" y="154" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#627A8B">Source: Risk_Alert_Classifier_Dataset.csv · risk_status labels</text>
+</svg>
